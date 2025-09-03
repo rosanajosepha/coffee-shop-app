@@ -1,0 +1,1 @@
+Top-level components representing distinct pages/routes (e.g., HomePage.js, LoginPage.js)

@@ -1,0 +1,1 @@
+The components folder contains reusable UI components (e.g., Button.js, Card.js)
